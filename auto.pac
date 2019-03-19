@@ -1459,6 +1459,7 @@ var rules = [
             "fa.gov.tw",
             "facebook.br",
             "facebook.com",
+	    "github.githistory.xyz",
 	    "mozilla.org",
 	    "huobi.com",
 	    "eos.io",

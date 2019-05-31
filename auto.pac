@@ -1955,6 +1955,7 @@ var rules = [
             "google.co.za",
             "google.co.zm",
             "google.co.zw",
+            "material.io",
             "google.com",
             "google.com.af",
             "google.com.ag",

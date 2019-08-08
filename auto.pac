@@ -1957,6 +1957,7 @@ var rules = [
             "google.co.zw",
             "material.io",
             "google.com",
+	    "amazon.com",
             "google.com.af",
             "google.com.ag",
             "google.com.ai",
